@@ -1,1 +1,4 @@
-[] make this dotfiles and one click configs
+- [ ] make these dotfiles and one click configs
+- [ ] first version linux
+- [ ] first version mac
+
