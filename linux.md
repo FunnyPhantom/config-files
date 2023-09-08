@@ -8,4 +8,4 @@ use the default provided zshrc, the zshrc will:
   * fuzzy matching
   * (check the configs for more)
 * copy the [Autocompletion files](/zsh/site-functions/) into right folder.
-* Bind mongodb to ipV6. ([Cinfig](/etc/mongodb.conf)) 
+* Bind mongodb to ipV6. ([Config](/etc/mongodb.conf)) 
