@@ -7,4 +7,5 @@ use the default provided zshrc, the zshrc will:
   * history
   * fuzzy matching
   * (check the configs for more)
-* copy the [_conda](/zsh/site-functions/_conda) file into right folder. 
+* copy the [Autocompletion files](/zsh/site-functions/) into right folder.
+* Bind mongodb to ipV6. ([Cinfig](/etc/mongodb.conf)) 
